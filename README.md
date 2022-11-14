@@ -1,5 +1,6 @@
 # trpc-typescript-express
 sample api
 
-npm install
-cd packages/server && npm install
+1. npm install
+2. cd packages/server && npm install
+3. npm start
