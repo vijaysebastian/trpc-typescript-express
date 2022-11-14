@@ -1,0 +1,11 @@
+{
+    "name": "trpc-node-react",
+    "private": "true",
+    "scripts": {},
+    "workspaces": [
+        "packages/*"
+    ],
+    "dependencies": {
+        "pg": "^8.8.0"
+    }
+}
